@@ -1,0 +1,22 @@
+Czas otwierania pliku: 156.6906
+
+n_citation    1278132
+year          1278132
+keywords      1278132
+dtype: int64
+
+ile lat: 209
+
+Opis lat:
+count    1.278132e+06
+mean     1.998880e+03
+std      1.847801e+01
+min      1.800000e+03
+25%      1.993000e+03
+50%      2.005000e+03
+75%      2.011000e+03
+max      2.019000e+03
+Name: year, dtype: float64
+
+ile keywords: 155156
+
