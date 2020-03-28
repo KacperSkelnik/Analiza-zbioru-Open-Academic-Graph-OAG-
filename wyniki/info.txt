@@ -1,0 +1,20 @@
+n_citation    4269768
+year          4269768
+keywords      4269768
+dtype: int64
+
+ile lat: 220
+
+Opis lat:
+count    4.269768e+06
+mean     1.998608e+03
+std      1.869053e+01
+min      1.800000e+03
+25%      1.992000e+03
+50%      2.005000e+03
+75%      2.011000e+03
+max      2.019000e+03
+Name: year, dtype: float64
+
+ile keywords: 238593
+

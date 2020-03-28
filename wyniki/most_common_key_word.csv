@@ -1,0 +1,221 @@
+,year,most common key,second most popular key
+174,1800.0,Performance art,Art
+1,1801.0,Performance art,Art
+155,1802.0,Performance art,Art
+111,1803.0,Performance art,Art
+9,1804.0,Art,Art
+80,1805.0,Art,Performance art
+161,1806.0,Art,Performance art
+114,1807.0,History,Performance art
+42,1808.0,Art,Performance art
+22,1809.0,Performance art,Art
+44,1810.0,Performance art,Art
+137,1811.0,Performance art,Art
+90,1812.0,Art,Performance art
+37,1813.0,Art history,Performance art
+32,1814.0,Performance art,Art history
+45,1815.0,Performance art,Art history
+190,1816.0,Performance art,Art
+23,1817.0,Art,Performance art
+68,1818.0,Performance art,Art history
+139,1819.0,Art,Art history
+84,1820.0,Performance art,Art
+179,1821.0,Performance art,Art
+168,1822.0,Art,Performance art
+14,1823.0,Performance art,Art
+7,1824.0,Art,Performance art
+149,1825.0,Art,Performance art
+52,1826.0,Physics,Art
+140,1827.0,Art,Art
+105,1828.0,Performance art,Art
+8,1829.0,Art,Physics
+17,1830.0,Physics,Performance art
+126,1831.0,Performance art,Art
+197,1832.0,Performance art,Medicine
+121,1833.0,Art,Art
+116,1834.0,Performance art,Art
+101,1835.0,Performance art,Art
+76,1836.0,Art,Performance art
+109,1837.0,Physics,Performance art
+196,1838.0,Art,Performance art
+207,1839.0,Art,Performance art
+145,1840.0,Art history,Performance art
+96,1841.0,Medicine,History
+183,1842.0,Performance art,Medicine
+132,1843.0,Medicine,Performance art
+40,1844.0,Performance art,Art
+50,1845.0,Art,Performance art
+186,1846.0,Art,Physics
+104,1847.0,Physics,Performance art
+162,1848.0,Physics,Astrophysics
+69,1849.0,Physics,Art
+205,1850.0,Art,Performance art
+164,1851.0,Physics,Medicine
+184,1852.0,Physics,Medicine
+198,1853.0,Physics,Art
+153,1854.0,Medicine,Physics
+210,1855.0,Physics,Performance art
+11,1856.0,Performance art,Art
+81,1857.0,Performance art,Medicine
+87,1858.0,Physics,Performance art
+10,1859.0,Performance art,Physics
+48,1860.0,Performance art,Art
+29,1861.0,Performance art,Medicine
+120,1862.0,Performance art,Art
+218,1863.0,Medicine,Performance art
+83,1864.0,Physics,Medicine
+134,1865.0,Physics,Astrophysics
+142,1866.0,Physics,Art
+209,1867.0,Physics,Performance art
+99,1868.0,Physics,Astrophysics
+73,1869.0,Physics,Performance art
+148,1870.0,Performance art,Art
+217,1871.0,Performance art,Art
+82,1872.0,Medicine,Art
+20,1873.0,Medicine,Performance art
+24,1874.0,Medicine,Art
+213,1875.0,Medicine,Performance art
+93,1876.0,Medicine,Performance art
+191,1877.0,Performance art,Art
+85,1878.0,Art,Medicine
+38,1879.0,Medicine,Art
+3,1880.0,Art,Performance art
+25,1881.0,Art,Performance art
+158,1882.0,Medicine,Art
+57,1883.0,Art,Art
+195,1884.0,Art,Performance art
+16,1885.0,Performance art,Medicine
+123,1886.0,Medicine,Performance art
+215,1887.0,Medicine,Performance art
+21,1888.0,Medicine,Art
+169,1889.0,Art,Performance art
+216,1890.0,Art,Medicine
+187,1891.0,Medicine,Art
+65,1892.0,History,Performance art
+177,1893.0,History,History
+78,1894.0,Medicine,Performance art
+136,1895.0,Medicine,Performance art
+106,1896.0,Medicine,Art
+59,1897.0,Medicine,Art
+92,1898.0,Medicine,History
+156,1899.0,Medicine,Performance art
+62,1900.0,Art,Performance art
+89,1901.0,Medicine,Art
+129,1902.0,Medicine,History
+107,1903.0,Medicine,History
+28,1904.0,History,Medicine
+13,1905.0,Medicine,Physics
+61,1906.0,Medicine,History
+219,1907.0,Medicine,History
+51,1908.0,Medicine,History
+180,1909.0,Medicine,History
+214,1910.0,Medicine,History
+212,1911.0,Medicine,History
+77,1912.0,Medicine,History
+127,1913.0,Medicine,History
+33,1914.0,Medicine,Performance art
+102,1915.0,Medicine,History
+91,1916.0,History,Medicine
+131,1917.0,Medicine,History
+39,1918.0,Medicine,Art
+193,1919.0,Medicine,Performance art
+0,1920.0,Medicine,Biology
+113,1921.0,Medicine,Biology
+70,1922.0,Medicine,Biology
+124,1923.0,Medicine,Biology
+36,1924.0,Medicine,Biology
+31,1925.0,Medicine,Biology
+47,1926.0,Medicine,Biology
+35,1927.0,Medicine,Biology
+173,1928.0,Medicine,Biology
+194,1929.0,Medicine,Biology
+130,1930.0,Biology,Medicine
+200,1931.0,Medicine,Biology
+185,1932.0,Medicine,Biology
+211,1933.0,Medicine,Biology
+27,1934.0,Medicine,Biology
+157,1935.0,Medicine,Biology
+75,1936.0,Medicine,Engineering
+95,1937.0,Medicine,Engineering
+6,1938.0,Medicine,Engineering
+94,1939.0,Engineering,Medicine
+15,1940.0,Biology,Medicine
+188,1941.0,Engineering,Medicine
+144,1942.0,Medicine,Engineering
+88,1943.0,Medicine,Engineering
+46,1944.0,Engineering,Medicine
+86,1945.0,Engineering,Medicine
+5,1946.0,Engineering,Medicine
+202,1947.0,Medicine,Engineering
+72,1948.0,Engineering,Medicine
+199,1949.0,Engineering,Chemistry
+147,1950.0,Biology,Medicine
+171,1951.0,Chemistry,Materials science
+60,1952.0,Chemistry,Materials science
+30,1953.0,Chemistry,Materials science
+110,1954.0,Chemistry,Materials science
+55,1955.0,Chemistry,Materials science
+152,1956.0,Chemistry,Materials science
+181,1957.0,Chemistry,Materials science
+143,1958.0,Chemistry,Materials science
+79,1959.0,Chemistry,Materials science
+63,1960.0,Biology,Chemistry
+100,1961.0,Chemistry,Materials science
+138,1962.0,Chemistry,Materials science
+12,1963.0,Chemistry,Materials science
+18,1964.0,Chemistry,Materials science
+167,1965.0,Chemistry,Physics
+119,1966.0,Chemistry,Physics
+43,1967.0,Chemistry,Physics
+58,1968.0,Chemistry,Physics
+112,1969.0,Chemistry,Physics
+208,1970.0,Biology,Chemistry
+176,1971.0,Engineering,Chemistry
+141,1972.0,Engineering,Chemistry
+71,1973.0,Engineering,Chemistry
+56,1974.0,Engineering,Chemistry
+206,1975.0,Engineering,Chemistry
+182,1976.0,Engineering,Chemistry
+2,1977.0,Engineering,Chemistry
+97,1978.0,Engineering,Medicine
+49,1979.0,Engineering,Chemistry
+53,1980.0,Biology,Engineering
+26,1981.0,Engineering,Medicine
+103,1982.0,Engineering,Medicine
+122,1983.0,Engineering,Medicine
+189,1984.0,Engineering,Medicine
+170,1985.0,Engineering,Medicine
+165,1986.0,Engineering,Medicine
+201,1987.0,Engineering,Medicine
+151,1988.0,Engineering,Medicine
+203,1989.0,Engineering,Medicine
+172,1990.0,Biology,Medicine
+19,1991.0,Engineering,Medicine
+204,1992.0,Engineering,Medicine
+175,1993.0,Engineering,Medicine
+74,1994.0,Engineering,Medicine
+154,1995.0,Engineering,Medicine
+150,1996.0,Engineering,Medicine
+128,1997.0,Medicine,Engineering
+67,1998.0,Medicine,Engineering
+115,1999.0,Engineering,Medicine
+135,2000.0,Biology,Medicine
+98,2001.0,Engineering,Medicine
+41,2002.0,Biology,Engineering
+125,2003.0,Engineering,Biology
+118,2004.0,Engineering,Medicine
+117,2005.0,Engineering,Medicine
+64,2006.0,Medicine,Engineering
+178,2007.0,Medicine,Engineering
+192,2008.0,Medicine,Engineering
+166,2009.0,Medicine,Engineering
+133,2010.0,Engineering,Medicine
+146,2011.0,Engineering,Medicine
+34,2012.0,Engineering,Medicine
+163,2013.0,Engineering,Medicine
+108,2014.0,Engineering,Medicine
+54,2015.0,Medicine,Engineering
+160,2016.0,Medicine,Chemistry
+159,2017.0,Engineering,Medicine
+4,2018.0,Performance art,Art
+66,2019.0,Mathematics,Engineering
